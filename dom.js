@@ -53,8 +53,8 @@ document[0]
 document[0].children;
 // would return the array under the children key
 
-let y = document[0].children[0].children;
-console.log(y.innerHTML);
+let y = document[0].children[0].children.innerHTML;
+console.log(y);
 
 
 // How would you access all of the children of the first div's ul node?
