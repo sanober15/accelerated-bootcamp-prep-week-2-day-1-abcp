@@ -69,3 +69,10 @@ console.log(x);
 document[2]
 let z = document[2].children;
 console.log(z);
+
+
+//list the children of the second div
+
+document[1]
+let s = document[1].children;
+console.log(s);
