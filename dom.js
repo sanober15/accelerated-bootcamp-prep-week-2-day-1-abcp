@@ -1,6 +1,6 @@
 //grab the list of children that live at the first ul node
 
-var f = 
+var f = document.getElementsByTagName('ul')
 
 
 var document = [
