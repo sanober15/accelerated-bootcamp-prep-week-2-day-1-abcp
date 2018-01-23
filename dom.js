@@ -1,6 +1,6 @@
 //grab the list of children that live at the first ul node
 
-document[0]
+document[0];
 // would return the first whole object.
 //=> {
 /*
