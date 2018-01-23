@@ -53,4 +53,5 @@ document[0]
 document[0].children;
 // would return the array under the children key
 
-document[0].children[0].children;
+let y = document[0].children[0].children;
+console.log(y);
