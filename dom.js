@@ -1,6 +1,6 @@
 //grab the list of children that live at the first ul node
 
-document[0];
+document[0]
 // would return the first whole object.
 //=> {
 /*
@@ -16,25 +16,8 @@ document[0];
     }
   ]
 },
-{
-  tagName: "div",
-  children: [
-    {
-      tagName: "form",
-      children: [
-        {
-          tagName: "input",
-          type: "text",
-          value: "name"
-        },
-        {
-          tagName: "input",
-          type: "submit"
-        }
-      ]
-    }
-  ]
-},*/
+*/
+
 document[0].children;
 // would return the array under the children key
 /*
