@@ -57,8 +57,13 @@ let y = document[0].children[0].children;
 console.log(y);
 
 
-// How would you access all of the children of the first div's ul node?
+// How would you 
+//access all of the children of the first div's ul node?
 
 document[0]
 let x = document[0].children;
 console.log(x);
+
+
+//access the value of the p tag that is the child of the last div
+
